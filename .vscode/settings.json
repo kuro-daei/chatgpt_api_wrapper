@@ -1,0 +1,12 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.defaultInterpreterPath": "/home/eiji/.local/share/virtualenvs/chatgpt_api_wrapper-H6rhR4AI",
+    "pylint.path": [
+        "/home/eiji/.local/share/virtualenvs/chatgpt_api_wrapper-H6rhR4AI/bin/pylint"
+    ],
+    "pylint.interpreter": [
+        "/home/eiji/.local/share/virtualenvs/chatgpt_api_wrapper-H6rhR4AI/bin/python"
+    ]
+}
